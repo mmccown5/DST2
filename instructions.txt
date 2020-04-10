@@ -1,0 +1,2 @@
+git remote add origin https://github.com/YourLab/ProjectName.git
+git push --set-upstream origin master
